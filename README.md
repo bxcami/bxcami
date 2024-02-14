@@ -5,7 +5,7 @@
 ### 👨‍💻 Обо мне:
 
 QA Engineer. 
-Основной домен - тестирование веб-приложений (front + back). 
+Специализируюсь на тестировании веб-приложений (front + back). 
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:levia708@gmail.com)
 
@@ -61,11 +61,16 @@ QA Engineer.
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  
-</div>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"
 
----
+ <div> 
+
+
+
 
 ### ✏️ Работа с кодом:
 
